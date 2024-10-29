@@ -19,3 +19,10 @@ div{
     margin-right: 5%;
 }
 img{height: 200px;}
+
+.categoria-vídeos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    
+}
